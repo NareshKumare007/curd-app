@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "herry reddy",
+      "email": "herry345@gmail.com",
+      "phone": "9802315478",
+      "isActive": "true",
+      "id": 4
+    },
+    {
+      "name": "tomjerry",
+      "email": "jerry@gmail.com",
+      "phone": "7894561230",
+      "isActive": "false",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "tom",
+      "email": "tom12@gmail.com",
+      "phone": "9874563210",
+      "isActive": false
+    }
+  ]
+}
